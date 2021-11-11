@@ -1,4 +1,5 @@
 # svg-builder
 A python class with svg elements for generative art.
 
-inspired from CodeDrome/svg-library-python
+
+`Inspired from CodeDrome/svg-library-python`
